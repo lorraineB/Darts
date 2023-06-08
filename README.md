@@ -1,5 +1,5 @@
 SDS 2023 - Forecating & Meta-learning workshop
-This is the public github repository for the workshop that will be given at SDS 2022 on 22th of June.
+This is the public github repository for the workshop that will be given at SDS 2023 on 22th of June.
 
 Link to Workshop page: https://sds2023.ch/conference-program
 
