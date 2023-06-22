@@ -9,7 +9,7 @@ Recently, new deep learning models have emerged producing state-of-the-art resul
 In this workshop, we will share our learning and techniques to train and apply deep learning forecasting models in practice. We will also talk about meta-learning, which is a new avenue opened by these models. Meta-learning enables the discovery of generic patterns from a diverse set of distinct time series and improve generalization on new time series coming from potentially different datasets, opening the door for zero-shot forecasting and avoiding the cold start problem.
 
 ## Material
-This Github contains a notebook to be completed during the workshop. The complete notebook will be uploaded after the workshop here.
+This Github contains a notebook to be completed during the workshop, as well as the master notebook with the completed exercises.
 
 ## Other useful material & link
 - Workshop slides: https://github.com/unit8co/sds2023-forecasting-and-meta-learning/blob/main/SDS%20Workshop%20-%20Forecasting%20%26%20Meta-learning.pdf
