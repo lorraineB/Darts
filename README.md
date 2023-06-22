@@ -12,5 +12,5 @@ In this workshop, we will share our learning and techniques to train and apply d
 This Github contains a notebook to be completed during the workshop. The complete notebook will be uploaded after the workshop here.
 
 ## Other useful material & link
-- Workshop slides: 
+- Workshop slides: https://github.com/unit8co/sds2023-forecasting-and-meta-learning/blob/main/SDS%20Workshop%20-%20Forecasting%20%26%20Meta-learning.pdf
 - Darts Documentation https://unit8co.github.io/darts/
